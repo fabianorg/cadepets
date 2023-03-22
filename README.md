@@ -1,2 +1,2 @@
 # cadepets
-TESTE site cade pets
+site cade pets
